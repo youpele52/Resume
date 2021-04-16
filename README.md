@@ -1,2 +1,2 @@
 Hey, hi
-How are you doing?
+how are you doing?
